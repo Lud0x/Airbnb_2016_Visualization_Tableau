@@ -4,7 +4,9 @@ This repository showcases an in-depth analysis and visualization of Airbnb data 
 
 
 Data Source: Airbnb dataset from 2016
+
 Tool Used: Tableau
+
 Objective: To analyze and visualize Airbnb data to reveal trends, patterns, and actionable insights.
 
 
